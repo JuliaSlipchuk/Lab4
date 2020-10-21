@@ -1,0 +1,10 @@
+E:\Univer\Information protection on computer systems\Lab4\Part 3\Part 3\bin\Debug\Part 3.exe.config
+E:\Univer\Information protection on computer systems\Lab4\Part 3\Part 3\bin\Debug\Part 3.exe
+E:\Univer\Information protection on computer systems\Lab4\Part 3\Part 3\bin\Debug\Part 3.pdb
+E:\Univer\Information protection on computer systems\Lab4\Part 3\Part 3\obj\Debug\Part 3.csprojAssemblyReference.cache
+E:\Univer\Information protection on computer systems\Lab4\Part 3\Part 3\obj\Debug\Part_3.Form1.resources
+E:\Univer\Information protection on computer systems\Lab4\Part 3\Part 3\obj\Debug\Part_3.Properties.Resources.resources
+E:\Univer\Information protection on computer systems\Lab4\Part 3\Part 3\obj\Debug\Part 3.csproj.GenerateResource.cache
+E:\Univer\Information protection on computer systems\Lab4\Part 3\Part 3\obj\Debug\Part 3.csproj.CoreCompileInputs.cache
+E:\Univer\Information protection on computer systems\Lab4\Part 3\Part 3\obj\Debug\Part 3.exe
+E:\Univer\Information protection on computer systems\Lab4\Part 3\Part 3\obj\Debug\Part 3.pdb

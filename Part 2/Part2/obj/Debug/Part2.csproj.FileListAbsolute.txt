@@ -1,0 +1,22 @@
+E:\Univer\Information protection on computer systems\Lab4\Part2\Part2\bin\Debug\Part2.exe.config
+E:\Univer\Information protection on computer systems\Lab4\Part2\Part2\bin\Debug\Part2.exe
+E:\Univer\Information protection on computer systems\Lab4\Part2\Part2\bin\Debug\Part2.pdb
+E:\Univer\Information protection on computer systems\Lab4\Part2\Part2\obj\Debug\Part2.csprojAssemblyReference.cache
+E:\Univer\Information protection on computer systems\Lab4\Part2\Part2\obj\Debug\Part2.Form1.resources
+E:\Univer\Information protection on computer systems\Lab4\Part2\Part2\obj\Debug\Part2.Properties.Resources.resources
+E:\Univer\Information protection on computer systems\Lab4\Part2\Part2\obj\Debug\Part2.csproj.GenerateResource.cache
+E:\Univer\Information protection on computer systems\Lab4\Part2\Part2\obj\Debug\Part2.csproj.CoreCompileInputs.cache
+E:\Univer\Information protection on computer systems\Lab4\Part2\Part2\obj\Debug\Part2.exe
+E:\Univer\Information protection on computer systems\Lab4\Part2\Part2\obj\Debug\Part2.pdb
+E:\Univer\Information protection on computer systems\Lab4\Part2\Part2\obj\Debug\Part2.Form2.resources
+E:\Univer\Information protection on computer systems\Lab4\Part 2\Part2\bin\Debug\Part2.exe.config
+E:\Univer\Information protection on computer systems\Lab4\Part 2\Part2\bin\Debug\Part2.exe
+E:\Univer\Information protection on computer systems\Lab4\Part 2\Part2\bin\Debug\Part2.pdb
+E:\Univer\Information protection on computer systems\Lab4\Part 2\Part2\obj\Debug\Part2.csprojAssemblyReference.cache
+E:\Univer\Information protection on computer systems\Lab4\Part 2\Part2\obj\Debug\Part2.Form1.resources
+E:\Univer\Information protection on computer systems\Lab4\Part 2\Part2\obj\Debug\Part2.Form2.resources
+E:\Univer\Information protection on computer systems\Lab4\Part 2\Part2\obj\Debug\Part2.Properties.Resources.resources
+E:\Univer\Information protection on computer systems\Lab4\Part 2\Part2\obj\Debug\Part2.csproj.GenerateResource.cache
+E:\Univer\Information protection on computer systems\Lab4\Part 2\Part2\obj\Debug\Part2.csproj.CoreCompileInputs.cache
+E:\Univer\Information protection on computer systems\Lab4\Part 2\Part2\obj\Debug\Part2.exe
+E:\Univer\Information protection on computer systems\Lab4\Part 2\Part2\obj\Debug\Part2.pdb
